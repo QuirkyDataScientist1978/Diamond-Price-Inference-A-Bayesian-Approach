@@ -1,0 +1,133 @@
+<!-- All parallax effects were learned through youtube for this one https://www.youtube.com/watch?v=JttTcnidSdQ  -->
+
+<!doctype html>
+<html>
+	<font color="#1C0BF5"></font>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Bayesian Statistics Final Project Presentation</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body text="#1411ED">
+	<div class="paradiv1">
+		<div class="ptext">
+			<span class="border">
+				
+			Diamond Price Inference: A Bayesian Approach
+				
+			</span>
+		</div>
+	</div>
+	
+	<section class="section section-light">
+		<h2>Problem Statement: How do you know the price of a diamond is accurate?</h2>
+		<h3>
+		Diamonds are amongst the most valuable natural resources in the world. They are also the hardest for the average person or consumer to price out its value. First one needs to identify the characteristics of a diamond and determine if the diamond is desired at that price point. This is usually done through some comparative analysis at various diamonds sites and shops in order to determine the best deal. The motivation for this work is to help out the consumer and to possibly find some price arbitrage opportunities. The data set for this project was webscraped from multiple retail websites across the world. I have a fair amount of domain knowledge since I have bought diamonds in the past. 
+		</h3>
+	</section>
+		
+	<div class="paradiv2">
+			<div class="ptext">
+				<span class="border trans">
+					<font color="white">
+				Proposed Methods
+					</font>
+				</span>
+			</div>
+	</div>	
+	
+		<section class="section section-dark">
+				<h2>Linearized Model (LM), Generalized Linear Model (GLM), Bayesian GLM and MCMC Hierarchical Gaussian Linear Regression Model </h2>
+				<h3>Bayesian methods focus on five elements. The first is the incorporation of the prior information. It represents the probability distribution for a coefficient or the distribution of the probability of values for a coefficient we are trying to model. The second is the prior is combined with a likelihood function. The likelihood function represents the data. The combination of the prior with the likelihood function results in the creation of a posterior distribution in order to create a distribution of likely values for the price parameter. Simulates are then drawn from the posterior distribution to create an empirical distribution of likely values for the price parameter. Basic statistics summarize the empirical distribution of the simulates from the posterior. The distribution represents the maximum likelihood estimate of the true coefficient's price value and credible intervals which can capture the true price value with the probability attached. Priors should be rationally and honestly derived. Since the diamond data comes with recognized industry certifications, we can guarantee that each diamond has been reviewed by an expert in their field and certified accordingly to "grade" a diamond based on multiple characteristics.
+				
+				</h3>
+		</section>	
+	
+	<div class="paradiv3">
+			<div class="ptext">
+				<span class="border trans"> <!-- trans=transparent for border class - can be removed if just want the box  -->
+				Empirical Results and Analysis
+				</span>
+			</div>
+	</div>	
+	
+		<section class="section section-light">
+				<h2>Exploratory Data Analysis </h2>
+				<h3>
+				The webscraping tool had some challenges with it. Depending on the type of website and its configuration - I wasn't always able to scrape data off of websites. Data was collected from six websites out of over fifty website scrape attempts. I randomly picked file number five to work with. I did some manual removal of duplicates and plotted a few characteristics. I used the unique value counts to create a function and convert the feature values into dummy variables in a separate Python3 Jupyter Notebook. I also removed the $ (dollar signs). There was very little multicollinearity if any and saw that polish did not matter. Shape and color were also weakly correlated. Carat, Symmetry and Cut seemed to matter most. I did not utilize the certification data since over 99.99% of it was Gemicological Institute Certified (GIA). Leads me to believe this is one of the most trusted industry certifications - which means I can have a high level of confidence in the certified data. I focused on Shape, Cut, Color, Clarity, Polish and Symmetry for the dummy variable encoding. I utilized all of the dummy variable encodings to include Carat, which was not encoded since it already had a numeric value. I did not want to utilize One-Hot Encoding since it would take the number of columns from seven to over 495 columns which would also induce a lot of error. I basically let the data inform the coefficients. 
+				</h3>
+		</section>	
+
+	<div class="paradiv4">
+				<div class="ptext">
+					<span class="border trans"> <!-- trans=transparent for border class - can be removed if just want the box  -->
+					Conclusions
+					</span>
+				</div>
+	</div>	
+	
+		<section class="section section-dark">
+				<h2>Model Results</h2>
+				<h3>
+				The LM and GLM models were nearly identical - off by a millionth of a decimal point. The Bayesian GLM utilized the "arm" package in R which contains the bayesglm function. I utilized the Gaussian family of GLMs. Utilizing the bayesglm I got a distribution of simulates which are used in place of an actual empirical distribution. The histogram shows that its nearly a perfectly distributed Gaussian distribution. The density plot can be interpreted as there is a 95% probability that the true price value of the coefficients fall between -0.808765 and 0.778626. A true bayesian inference included making an inference about our coefficients. I went one step further and recreated the empirical distribution utilized the MCMCregress function as part of the "MCMCpack" in R. This allowed me to do a Markov Chain Monte Carlo Simulation of the distributions. The results show a 95% probability that the true price value of the shape coefficient is included between the values -0.8959 and 0.8308. This distribution is slightly wider than the bayesianglm. This tells me that both models are accurate. Since the first, second and third models all were nearly identical - this tells me the approach is not only sound, but also validated. 
+				</h3>
+		</section>	
+	
+	<div class="paradiv5">
+				<div class="ptext">
+					<span class="border trans"> <!-- trans=transparent for border class - can be removed if just want the box  -->
+					Future Research
+					</span>
+				</div>
+	</div>	
+	
+		<section class="section section-light">
+				<h2>Incorporate the Bayesian Feedback Approach</h2>
+				<h3>
+				I plan on revisting this approach at some point in the future and including this sort of feedback / training mechanism into a more elaborate pipeline in which I can enter any number feature dimensions of a diamond including its price to receive feedback and so the model continues to learn. I would like to get to the point where it becomes a trusted consumer app utilized in diamond shopping. A lofty goal - but a fun one!
+				</h3>
+		</section>	
+	
+	<div class="paradiv6">
+				<div class="ptext">
+					<span class="border trans"> <!-- trans=transparent for border class - can be removed if just want the box  -->
+					Build A Prototype Application
+					</span>
+				</div>
+	</div>	
+	
+		<section class="section section-dark">
+				<h2>Summary</h2>
+				<h3>
+				I learned a lot about the bayesian approach to statistical inference. I have proved with this project that it is a viable option or alternative to other models - however I am unsure of its practical application. I need to further research and understand this approach better - becauase if I can get the same results with a LM or GLM then why do I need the bayesian approach? You're just looking at the data from a slightly different perspective and taking a different approach...
+				</h3>
+		</section>	
+
+	<div class="paradiv1">
+			<div class="ptext">
+				<span class="border">
+				Diamond Price Inference: A Bayesian Approach
+				</span>
+			</div>
+	</div>
+	
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,131 @@
+/* CSS Document */
+body, html{
+	height: 100%;
+	margin: 0;
+	font-size: 16px;
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	line-height: 1.8em;
+	color: #666;
+}
+
+.paradiv1, .paradiv2, .paradiv3, .paradiv4, .paradiv5, .paradiv6 {
+	position: relative;
+	opacity:0.70;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+	/* note--the below commented out code can remove the below effect -- so it only scrolls
+		fixed = parallax
+		scroll = normal
+	*/
+	
+	background-attachment: fixed;
+}
+
+.paradiv1{
+	background-image: url('images/paradiv1.jpeg');
+	min-height: 100%;
+}
+
+.paradiv2{
+	background-image: url('images/paradiv2.jpeg');
+	min-height: 800px;
+}
+
+.paradiv3{
+	background-image: url('images/paradiv3.jpeg');
+	min-height: 800px;
+}
+
+.paradiv4{
+	background-image: url('images/paradiv4.jpeg');
+	min-height: 800px;
+}
+
+.paradiv5{
+	background-image: url('images/paradiv5.jpeg');
+	min-height: 800px;
+}
+
+.paradiv6{
+	background-image: url('images/paradiv6.jpg');
+	min-height: 800px;
+}
+
+.section{
+	text-align: center;
+	padding: 50px 80px   /* first is top/bottom and second is left/right */
+}
+
+.section-light{
+	background-color: #f4f4f4;
+	color: #666;
+}
+
+.section-dark{
+	background-color: #282e34;
+	color: #ddd;
+}
+
+.ptext{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	color: #000;
+	font-size: 27px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+}
+
+.ptext .border{
+	background-color: #111;
+	color: #fff;
+	padding: 20px;	
+}
+
+.ptext .border.trans{
+	background-color: transparent;
+}
+
+@media(max-width:568px){
+	.paradiv1, .paradiv2, .paradiv3{
+		background-attachment: scroll;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

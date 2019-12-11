@@ -1,0 +1,980 @@
+Shape,Carat,Color,Clarity,Cut,Price
+Round,0.216,H,SI1,AGS - Ideal,$405
+Round,0.223,I,SI1,AGS - Ideal,$416
+Round,0.203,H,VS2,AGS - Ideal,$420
+Round,0.213,E,SI2,AGS - Ideal,$425
+Round,0.217,I,VS2,AGS - Ideal,$426
+Round,0.210,I,VS2,AGS - Ideal,$426
+Round,0.212,I,VS2,AGS - Ideal,$427
+Round,0.211,I,VS2,AGS - Ideal,$427
+Round,0.216,I,VS2,AGS - Ideal,$427
+Round,0.212,I,VS2,AGS - Ideal,$427
+Round,0.211,I,VS2,AGS - Ideal,$427
+Round,0.218,G,SI1,AGS - Ideal,$428
+Round,0.210,G,SI1,AGS - Ideal,$428
+Round,0.210,H,VS2,AGS - Ideal,$441
+Round,0.215,H,VS2,AGS - Ideal,$441
+Round,0.216,H,VS2,AGS - Ideal,$441
+Round,0.214,H,VS2,AGS - Ideal,$441
+Round,0.210,H,VS2,AGS - Ideal,$441
+Round,0.210,H,VS2,AGS - Ideal,$441
+Round,0.213,H,VS2,AGS - Ideal,$441
+Round,0.210,H,VS2,AGS - Ideal,$441
+Round,0.215,H,VS2,AGS - Ideal,$441
+Round,0.233,H,SI1,AGS - Ideal,$443
+Round,0.231,H,SI1,AGS - Ideal,$443
+Round,0.233,H,SI1,AGS - Ideal,$443
+Round,0.226,E,SI2,AGS - Ideal,$445
+Round,0.227,I,VS2,AGS - Ideal,$447
+Round,0.224,I,VS2,AGS - Ideal,$447
+Round,0.225,I,VS2,AGS - Ideal,$447
+Round,0.228,I,VS2,AGS - Ideal,$447
+Round,0.223,I,VS2,AGS - Ideal,$447
+Round,0.222,I,VS2,AGS - Ideal,$447
+Round,0.226,I,VS2,AGS - Ideal,$447
+Round,0.222,I,VS2,AGS - Ideal,$447
+Round,0.221,I,VS2,AGS - Ideal,$447
+Round,0.227,I,VS2,AGS - Ideal,$447
+Round,0.220,I,VS2,AGS - Ideal,$447
+Round,0.226,I,VS2,AGS - Ideal,$447
+Round,0.228,I,VS2,AGS - Ideal,$447
+Round,0.226,I,VS2,AGS - Ideal,$447
+Round,0.227,I,VS2,AGS - Ideal,$447
+Round,0.227,I,VS2,AGS - Ideal,$447
+Round,0.204,H,VS1,AGS - Ideal,$448
+Round,0.203,H,VS1,AGS - Ideal,$448
+Round,0.202,H,VS1,AGS - Ideal,$448
+Round,0.207,H,VS1,AGS - Ideal,$448
+Round,0.208,H,VS1,AGS - Ideal,$448
+Round,0.208,H,VS1,AGS - Ideal,$448
+Round,0.205,H,VS1,AGS - Ideal,$448
+Round,0.208,H,VS1,AGS - Ideal,$448
+Round,0.225,F,SI1,AGS - Ideal,$455
+Round,0.218,I,VS1,AGS - Ideal,$456
+Round,0.215,I,VS1,AGS - Ideal,$456
+Round,0.218,G,VS2,AGS - Ideal,$456
+Round,0.217,I,VS1,AGS - Ideal,$456
+Round,0.221,I,VS1,AGS - Ideal,$462
+Round,0.220,I,VS1,AGS - Ideal,$462
+Round,0.207,E,VS2,AGS - Ideal,$462
+Round,0.230,E,SI2,AGS - Ideal,$466
+Round,0.236,E,SI2,AGS - Ideal,$466
+Round,0.232,F,SI2,AGS - Ideal,$466
+Round,0.218,H,VS1,AGS - Ideal,$471
+Round,0.210,H,VS1,AGS - Ideal,$471
+Round,0.212,H,VS1,AGS - Ideal,$471
+Round,0.213,H,VS1,AGS - Ideal,$471
+Round,0.216,D,SI1,AGS - Ideal,$471
+Round,0.215,H,VS1,AGS - Ideal,$471
+Round,0.212,H,VS1,AGS - Ideal,$471
+Round,0.214,H,VS1,AGS - Ideal,$471
+Round,0.218,H,VS1,AGS - Ideal,$471
+Round,0.214,H,VS1,AGS - Ideal,$471
+Round,0.210,H,VS1,AGS - Ideal,$471
+Round,0.213,H,VS1,AGS - Ideal,$471
+Round,0.210,H,VS1,AGS - Ideal,$471
+Round,0.216,H,VS1,AGS - Ideal,$471
+Round,0.215,H,VS1,AGS - Ideal,$471
+Round,0.217,H,VS1,AGS - Ideal,$471
+Round,0.211,H,VS1,AGS - Ideal,$471
+Round,0.214,H,VS1,AGS - Ideal,$471
+Round,0.216,H,VS1,AGS - Ideal,$471
+Round,0.213,D,SI1,AGS - Ideal,$471
+Round,0.211,H,VS1,AGS - Ideal,$471
+Round,0.216,H,VS1,AGS - Ideal,$471
+Round,0.211,H,VS1,AGS - Ideal,$471
+Round,0.202,F,VS1,AGS - Ideal,$472
+Round,0.216,F,VS2,AGS - Ideal,$473
+Round,0.213,F,VS2,AGS - Ideal,$473
+Round,0.232,F,SI1,AGS - Ideal,$475
+Round,0.234,I,VS2,AGS - Ideal,$477
+Round,0.226,I,VS1,AGS - Ideal,$478
+Round,0.221,I,VS1,AGS - Ideal,$478
+Round,0.221,I,VS1,AGS - Ideal,$478
+Round,0.227,H,VS2,AGS - Ideal,$478
+Round,0.232,I,VS2,AGS - Ideal,$478
+Round,0.221,I,VS1,AGS - Ideal,$478
+Round,0.227,H,VS2,AGS - Ideal,$478
+Round,0.223,I,VS1,AGS - Ideal,$478
+Round,0.223,H,VS2,AGS - Ideal,$478
+Round,0.222,I,VS1,AGS - Ideal,$478
+Round,0.221,H,VS2,AGS - Ideal,$478
+Round,0.224,H,VS2,AGS - Ideal,$478
+Round,0.223,I,VS1,AGS - Ideal,$478
+Round,0.238,H,VS2,AGS - Ideal,$483
+Round,0.236,H,VS2,AGS - Ideal,$483
+Round,0.237,H,VS2,AGS - Ideal,$483
+Round,0.236,H,VS2,AGS - Ideal,$483
+Round,0.238,H,VS2,AGS - Ideal,$483
+Round,0.230,H,VS2,AGS - Ideal,$483
+Round,0.232,H,VS2,AGS - Ideal,$483
+Round,0.227,D,SI1,AGS - Ideal,$486
+Round,0.227,D,SI1,AGS - Ideal,$486
+Round,0.226,D,SI1,AGS - Ideal,$486
+Round,0.202,E,VS2,AGS - Ideal,$489
+Round,0.212,G,VS1,AGS - Ideal,$491
+Round,0.213,G,VS1,AGS - Ideal,$491
+Round,0.213,G,VS1,AGS - Ideal,$491
+Round,0.215,E,VS2,AGS - Ideal,$492
+Round,0.214,E,VS2,AGS - Ideal,$492
+Round,0.210,E,VS2,AGS - Ideal,$492
+Round,0.210,E,VS2,AGS - Ideal,$492
+Round,0.224,H,VS1,AGS - Ideal,$493
+Round,0.223,H,VS1,AGS - Ideal,$493
+Round,0.223,H,VS1,AGS - Ideal,$493
+Round,0.220,H,VS1,AGS - Ideal,$493
+Round,0.223,H,VS1,AGS - Ideal,$493
+Round,0.220,H,VS1,AGS - Ideal,$493
+Round,0.228,H,VS1,AGS - Ideal,$493
+Round,0.227,H,VS1,AGS - Ideal,$493
+Round,0.220,H,VS1,AGS - Ideal,$493
+Round,0.204,E,VS1,AGS - Ideal,$494
+Round,0.211,F,VVS2,AGS - Ideal,$495
+Round,0.212,F,VVS2,AGS - Ideal,$495
+Round,0.214,F,VVS2,AGS - Ideal,$495
+Round,0.234,I,VS1,AGS - Ideal,$499
+Round,0.241,H,VS2,AGS - Ideal,$504
+Round,0.245,H,VS2,AGS - Ideal,$504
+Round,0.242,H,VS2,AGS - Ideal,$504
+Round,0.245,H,VS2,AGS - Ideal,$504
+Round,0.227,H,VVS2,AGS - Ideal,$505
+Round,0.221,E,VS2,AGS - Ideal,$508
+Round,0.236,H,VS2,AGS - Ideal,$510
+Round,0.230,H,VS2,AGS - Ideal,$510
+Round,0.238,H,VS2,AGS - Ideal,$510
+Round,0.231,I,VS1,AGS - Ideal,$510
+Round,0.238,H,VS1,AGS - Ideal,$510
+Round,0.235,H,VS2,AGS - Ideal,$510
+Round,0.232,H,VS1,AGS - Ideal,$515
+Round,0.232,H,VS1,AGS - Ideal,$515
+Round,0.238,H,VS1,AGS - Ideal,$515
+Round,0.236,H,VS1,AGS - Ideal,$515
+Round,0.234,H,VS1,AGS - Ideal,$515
+Round,0.230,H,VS1,AGS - Ideal,$515
+Round,0.234,H,VS1,AGS - Ideal,$515
+Round,0.211,E,VS1,AGS - Ideal,$515
+Round,0.234,H,VS1,AGS - Ideal,$515
+Round,0.233,H,VS1,AGS - Ideal,$515
+Round,0.246,H,VS2,AGS - Ideal,$521
+Round,0.244,H,VS2,AGS - Ideal,$521
+Round,0.213,E,VS1,AGS - Ideal,$521
+Round,0.216,E,VS1,AGS - Ideal,$521
+Round,0.214,E,VS1,AGS - Ideal,$521
+Round,0.230,E,SI1,AGS - Ideal,$526
+Round,0.230,E,SI1,AGS - Ideal,$526
+Round,0.232,E,SI1,AGS - Ideal,$526
+Round,0.207,D,VS1,AGS - Ideal,$532
+Round,0.211,D,VS2,AGS - Ideal,$537
+Round,0.244,H,VS1,AGS - Ideal,$538
+Round,0.248,H,VS1,AGS - Ideal,$538
+Round,0.247,H,VS1,AGS - Ideal,$538
+Round,0.240,H,VS1,AGS - Ideal,$538
+Round,0.222,E,VS1,AGS - Ideal,$543
+Round,0.230,E,VS2,AGS - Ideal,$543
+Round,0.245,H,VS1,AGS - Ideal,$548
+Round,0.244,E,VS2,AGS - Ideal,$555
+Round,0.238,E,VS2,AGS - Ideal,$559
+Round,0.214,D,VS1,AGS - Ideal,$559
+Round,0.236,E,VS2,AGS - Ideal,$559
+Round,0.258,H,VS2,AGS - Ideal,$560
+Round,0.251,H,VS2,AGS - Ideal,$560
+Round,0.252,H,VS2,AGS - Ideal,$560
+Round,0.251,H,VS2,AGS - Ideal,$560
+Round,0.250,H,VS2,AGS - Ideal,$560
+Round,0.251,I,VS1,AGS - Ideal,$560
+Round,0.225,D,VS2,AGS - Ideal,$562
+Round,0.211,D,VS1,AGS - Ideal,$571
+Round,0.238,E,VS1,AGS - Ideal,$576
+Round,0.236,E,VS1,AGS - Ideal,$584
+Round,0.244,E,VS2,AGS - Ideal,$584
+Round,0.243,E,VS2,AGS - Ideal,$584
+Round,0.250,E,VS2,AGS - Ideal,$608
+Round,0.245,E,VS1,AGS - Ideal,$610
+Round,0.241,D,VS2,AGS - Ideal,$618
+Round,0.240,D,VS2,AGS - Ideal,$618
+Round,0.268,F,VS2,AGS - Ideal,$638
+Round,0.303,I,VS2,AGS - Ideal,$639
+Round,0.321,J,VS1,AGS - Ideal,$646
+Round,0.315,I,VS2,AGS - Ideal,$646
+Round,0.315,I,VS2,AGS - Ideal,$646
+Round,0.315,I,VS2,AGS - Ideal,$660
+Round,0.308,I,VS1,AGS - Ideal,$672
+Round,0.307,I,VS1,AGS - Ideal,$672
+Round,0.305,I,VS1,AGS - Ideal,$672
+Round,0.312,I,VS2,AGS - Ideal,$679
+Round,0.256,D,VS1,AGS - Ideal,$679
+Round,0.327,J,VVS2,AGS - Ideal,$682
+Round,0.322,I,VS2,AGS - Ideal,$682
+Round,0.266,D,VS2,AGS - Ideal,$688
+Round,0.309,I,VS1,Advance -Ideal,$689
+Round,0.310,I,VS1,AGS - Ideal,$695
+Round,0.315,I,VS1,AGS - Ideal,$695
+Round,0.312,I,VS1,AGS - Ideal,$695
+Round,0.317,I,VS1,AGS - Ideal,$695
+Round,0.313,I,VS1,AGS - Ideal,$695
+Round,0.312,I,VS1,AGS - Ideal,$695
+Round,0.321,I,VS1,AGS - Ideal,$717
+Round,0.308,H,VS2,AGS - Ideal,$740
+Round,0.346,I,VS1,AGS - Ideal,$762
+Round,0.306,H,VS1,AGS - Ideal,$773
+Round,0.318,G,VS2,AGS - Ideal,$787
+Round,0.314,F,SI1,AGS - Ideal,$790
+Round,0.317,H,VS1,AGS - Ideal,$799
+Round,0.312,F,SI1,Advance -Ideal,$799
+Round,0.306,H,VVS2,AGS - Ideal,$807
+Round,0.313,G,VS2,AGS - Ideal,$817
+Round,0.304,E,VS2,AGS - Ideal,$823
+Round,0.320,H,VS1,AGS - Ideal,$825
+Round,0.313,F,VS2,AGS - Ideal,$834
+Round,0.323,G,VS2,AGS - Ideal,$843
+Round,0.314,G,VS1,AGS - Ideal,$852
+Round,0.305,F,VS1,AGS - Ideal,$859
+Round,0.301,F,VS1,AGS - Ideal,$859
+Round,0.325,F,VS2,AGS - Ideal,$861
+Round,0.310,E,VS2,AGS - Ideal,$868
+Round,0.311,F,VS1,AGS - Ideal,$869
+Round,0.318,F,VS1,AGS - Ideal,$869
+Round,0.317,E,VS2,AGS - Ideal,$869
+Round,0.310,E,VS2,AGS - Ideal,$869
+Round,0.303,F,VS2,AGS - Ideal,$873
+Round,0.325,G,VS1,AGS - Ideal,$880
+Round,0.324,F,VS2,AGS - Ideal,$880
+Round,0.330,F,VS2,AGS - Ideal,$888
+Round,0.335,F,VS2,AGS - Ideal,$888
+Round,0.313,F,VS1,AGS - Ideal,$888
+Round,0.312,F,VS1,AGS - Ideal,$888
+Round,0.303,D,VS2,AGS - Ideal,$894
+Round,0.303,E,VS1,AGS - Ideal,$894
+Round,0.324,E,VS2,AGS - Ideal,$900
+Round,0.315,D,VS2,AGS - Ideal,$903
+Round,0.311,E,VS1,AGS - Ideal,$903
+Round,0.330,F,VS2,AGS - Ideal,$907
+Round,0.308,D,VS1,AGS - Ideal,$908
+Round,0.340,F,VS2,AGS - Ideal,$915
+Round,0.313,E,VS1,AGS - Ideal,$923
+Round,0.313,E,VS1,AGS - Ideal,$923
+Round,0.317,E,VS1,AGS - Ideal,$923
+Round,0.310,E,VS1,AGS - Ideal,$923
+Round,0.318,E,VS1,AGS - Ideal,$923
+Round,0.303,D,VS1,AGS - Ideal,$928
+Round,0.306,D,VS1,AGS - Ideal,$928
+Round,0.335,F,VS1,AGS - Ideal,$945
+Round,0.311,E,VS2,AGS - Ideal,$946
+Round,0.314,E,VS2,AGS - Ideal,$946
+Round,0.311,E,VS2,AGS - Ideal,$946
+Round,0.346,F,VS1,AGS - Ideal,$952
+Round,0.342,F,VS1,AGS - Ideal,$953
+Round,0.326,D,VS2,AGS - Ideal,$953
+Round,0.320,E,VS1,AGS - Ideal,$953
+Round,0.333,E,VS1,AGS - Ideal,$962
+Round,0.303,D,VS2,AGS - Ideal,$964
+Round,0.305,D,VS2,AGS - Ideal,$964
+Round,0.332,D,SI1,AGS - Ideal,$985
+Round,0.311,D,VS1,AGS - Ideal,$989
+Round,0.310,D,VS1,AGS - Ideal,$989
+Round,0.310,D,VS2,AGS - Ideal,$996
+Round,0.350,D,VS2,AGS - Ideal,$1,005
+Round,0.407,D,SI2,Advance -Ideal,$1,090
+Round,0.428,E,SI1,Advance -Ideal,$1,238
+Round,0.406,E,VS2,AGS - Ideal,$1,251
+Round,0.547,J,VS2,AGS - Ideal,$1,437
+Round,0.501,H,SI1,AGS - Ideal,$1,680
+Round,0.518,H,SI1,AGS - Ideal,$1,683
+Round,0.536,I,VS1,AGS - Ideal,$1,692
+Round,0.507,G,SI1,AGS - Ideal,$1,703
+Round,0.527,I,VS2,AGS - Ideal,$1,707
+Round,0.520,H,SI1,AGS - Ideal,$1,715
+Round,0.557,I,VS2,AGS - Ideal,$1,723
+Round,0.545,I,VS1,AGS - Ideal,$1,724
+Round,0.685,K,VS1,AGS - Ideal,$1,735
+Round,0.511,G,SI1,AGS - Ideal,$1,737
+Round,0.571,I,SI1,AGS - Ideal,$1,743
+Round,0.548,I,VS1,AGS - Ideal,$1,756
+Round,0.504,F,SI1,AGS - Ideal,$1,756
+Round,0.533,I,VVS1,AGS - Ideal,$1,760
+Round,0.514,G,SI1,AGS - Ideal,$1,802
+Round,0.563,I,VS1,AGS - Ideal,$1,827
+Round,0.531,G,SI1,AGS - Ideal,$1,840
+Round,0.522,H,VS2,AGS - Ideal,$1,873
+Round,0.488,D,VS1,AGS - Ideal,$1,873
+Round,0.545,G,SI1,AGS - Ideal,$1,908
+Round,0.503,H,VS1,AGS - Ideal,$1,911
+Round,0.506,H,VS1,AGS - Ideal,$1,911
+Round,0.621,J,VVS1,AGS - Ideal,$1,940
+Round,0.504,G,VS2,AGS - Ideal,$1,942
+Round,0.542,H,VS2,AGS - Ideal,$1,945
+Round,0.527,H,VS2,AGS - Ideal,$1,946
+Round,0.518,F,SI1,Advance -Ideal,$1,946
+Round,0.514,H,VS1,AGS - Ideal,$1,949
+Round,0.517,H,VS1,AGS - Ideal,$1,949
+Round,0.606,I,SI1,AGS - Ideal,$1,980
+Round,0.523,H,VS1,AGS - Ideal,$1,987
+Round,0.500,G,VS1,AGS - Ideal,$1,998
+Round,0.518,E,SI1,AGS - Ideal,$2,014
+Round,0.542,H,VVS2,AGS - Ideal,$2,017
+Round,0.503,F,VS2,AGS - Ideal,$2,022
+Round,0.523,D,SI1,AGS - Ideal,$2,022
+Round,0.576,H,VS2,AGS - Ideal,$2,039
+Round,0.506,G,VVS2,AGS - Ideal,$2,045
+Round,0.730,K,VS2,AGS - Ideal,$2,050
+Round,0.517,G,VS1,AGS - Ideal,$2,062
+Round,0.510,F,VS2,AGS - Ideal,$2,062
+Round,0.606,I,VVS2,AGS - Ideal,$2,078
+Round,0.554,E,SI1,AGS - Ideal,$2,087
+Round,0.548,H,VVS2,AGS - Ideal,$2,099
+Round,0.508,G,VS2,AGS - Ideal,$2,112
+Round,0.571,F,SI1,AGS - Ideal,$2,116
+Round,0.576,F,SI1,AGS - Ideal,$2,116
+Round,0.563,H,VS1,AGS - Ideal,$2,125
+Round,0.503,E,VS2,AGS - Ideal,$2,129
+Round,0.507,E,VS2,AGS - Ideal,$2,129
+Round,0.507,G,VS1,AGS - Ideal,$2,129
+Round,0.600,H,SI1,AGS - Ideal,$2,140
+Round,0.513,F,VS2,AGS - Ideal,$2,140
+Round,0.518,D,SI1,AGS - Ideal,$2,143
+Round,0.553,G,VS2,AGS - Ideal,$2,148
+Round,0.510,G,VS2,AGS - Ideal,$2,154
+Round,0.510,G,VS2,AGS - Ideal,$2,154
+Round,0.513,F,VS1,AGS - Ideal,$2,171
+Round,0.511,E,VS2,AGS - Ideal,$2,171
+Round,0.567,G,VS2,AGS - Ideal,$2,185
+Round,0.521,E,VS2,AGS - Ideal,$2,190
+Round,0.706,J,SI1,AGS - Ideal,$2,192
+Round,0.808,K,SI1,AGS - Ideal,$2,201
+Round,0.522,E,VS2,AGS - Ideal,$2,213
+Round,0.525,E,VS2,AGS - Ideal,$2,213
+Round,0.521,E,VS2,AGS - Ideal,$2,215
+Round,0.510,G,VS1,AGS - Ideal,$2,220
+Round,0.533,G,VS1,AGS - Ideal,$2,223
+Round,0.571,H,VVS2,AGS - Ideal,$2,225
+Round,0.532,G,VS2,AGS - Ideal,$2,238
+Round,0.563,H,VVS1,AGS - Ideal,$2,238
+Round,0.505,E,VS2,AGS - Ideal,$2,241
+Round,0.560,H,VVS1,AGS - Ideal,$2,246
+Round,0.568,H,VVS1,AGS - Ideal,$2,246
+Round,0.510,F,VS1,AGS - Ideal,$2,252
+Round,0.536,F,VS1,AGS - Ideal,$2,256
+Round,0.537,F,VS1,AGS - Ideal,$2,256
+Round,0.508,E,VS2,Advance -Ideal,$2,258
+Round,0.558,G,VS1,AGS - Ideal,$2,266
+Round,0.553,G,VS1,AGS - Ideal,$2,266
+Round,0.568,F,VS2,AGS - Ideal,$2,266
+Round,0.510,E,VS1,AGS - Ideal,$2,279
+Round,0.542,F,VS1,AGS - Ideal,$2,298
+Round,0.551,D,SI1,AGS - Ideal,$2,299
+Round,0.530,F,VS2,AGS - Ideal,$2,301
+Round,0.574,G,VS2,AGS - Ideal,$2,308
+Round,0.561,G,VS2,AGS - Ideal,$2,308
+Round,0.615,H,VS2,AGS - Ideal,$2,312
+Round,0.502,F,VVS2,AGS - Ideal,$2,315
+Round,0.500,D,VS2,AGS - Ideal,$2,319
+Round,0.505,D,VS2,AGS - Ideal,$2,319
+Round,0.501,E,VS1,AGS - Ideal,$2,319
+Round,0.506,E,VS2,AGS - Ideal,$2,322
+Round,0.503,E,VS2,AGS - Ideal,$2,322
+Round,0.520,D,VS2,AGS - Ideal,$2,324
+Round,0.502,E,VS1,AGS - Ideal,$2,324
+Round,0.554,G,VVS2,AGS - Ideal,$2,325
+Round,0.543,F,VS1,AGS - Ideal,$2,325
+Round,0.583,H,VVS1,AGS - Ideal,$2,326
+Round,0.525,E,VS2,AGS - Ideal,$2,330
+Round,0.566,D,SI1,AGS - Ideal,$2,330
+Round,0.550,G,VS1,AGS - Ideal,$2,335
+Round,0.701,J,VS2,AGS - Ideal,$2,344
+Round,0.648,I,VS1,AGS - Ideal,$2,347
+Round,0.520,D,VS2,AGS - Ideal,$2,354
+Round,0.547,F,VS1,AGS - Ideal,$2,355
+Round,0.507,E,VS1,AGS - Ideal,$2,355
+Round,0.516,D,VS2,AGS - Ideal,$2,365
+Round,0.598,D,SI1,AGS - Ideal,$2,366
+Round,0.566,G,VVS2,AGS - Ideal,$2,368
+Round,0.531,E,VS1,AGS - Ideal,$2,369
+Round,0.530,D,VS2,AGS - Ideal,$2,369
+Round,0.535,D,VS2,AGS - Ideal,$2,369
+Round,0.538,E,VS2,AGS - Ideal,$2,376
+Round,0.500,F,VS1,AGS - Ideal,$2,384
+Round,0.801,K,VS2,AGS - Ideal,$2,384
+Round,0.521,E,VS1,AGS - Ideal,$2,385
+Round,0.558,F,VS1,AGS - Ideal,$2,385
+Round,0.555,F,VS1,AGS - Ideal,$2,385
+Round,0.553,E,VS2,AGS - Ideal,$2,385
+Round,0.558,E,VS2,AGS - Ideal,$2,385
+Round,0.566,G,VS1,AGS - Ideal,$2,385
+Round,0.503,D,VVS2,AGS - Ideal,$2,394
+Round,0.525,E,VS1,AGS - Ideal,$2,411
+Round,0.541,E,VS1,AGS - Ideal,$2,413
+Round,0.543,E,VS1,AGS - Ideal,$2,414
+Round,0.518,E,VS1,Advance -Ideal,$2,415
+Round,0.577,E,VS2,AGS - Ideal,$2,425
+Round,0.567,F,VS1,AGS - Ideal,$2,428
+Round,0.568,F,VS1,AGS - Ideal,$2,428
+Round,0.568,F,VS1,AGS - Ideal,$2,428
+Round,0.695,I,VS2,AGS - Ideal,$2,430
+Round,0.547,E,VS2,Advance -Ideal,$2,435
+Round,0.575,G,VS1,AGS - Ideal,$2,436
+Round,0.617,G,VS1,Advance -Ideal,$2,439
+Round,0.548,E,VS1,AGS - Ideal,$2,444
+Round,0.527,D,VS2,Advance -Ideal,$2,462
+Round,0.705,J,VVS1,AGS - Ideal,$2,469
+Round,0.615,H,VS1,AGS - Ideal,$2,470
+Round,0.575,E,VS2,AGS - Ideal,$2,472
+Round,0.606,G,VS2,AGS - Ideal,$2,485
+Round,0.598,G,VVS2,AGS - Ideal,$2,494
+Round,0.557,E,VS1,AGS - Ideal,$2,504
+Round,0.550,D,VS2,AGS - Ideal,$2,504
+Round,0.551,D,VS2,AGS - Ideal,$2,504
+Round,0.817,K,VS1,AGS - Ideal,$2,507
+Round,0.585,F,VS1,AGS - Ideal,$2,515
+Round,0.577,F,VS1,AGS - Ideal,$2,517
+Round,0.527,E,VVS2,AGS - Ideal,$2,519
+Round,0.598,F,VS1,AGS - Ideal,$2,520
+Round,0.562,E,VS2,AGS - Ideal,$2,520
+Round,0.704,I,SI1,AGS - Ideal,$2,522
+Round,0.515,E,VVS2,AGS - Ideal,$2,525
+Round,0.711,J,VS1,AGS - Ideal,$2,526
+Round,0.533,D,VS1,AGS - Ideal,$2,538
+Round,0.610,G,VS2,AGS - Ideal,$2,540
+Round,0.620,H,VVS1,AGS - Ideal,$2,563
+Round,0.568,F,VS1,AGS - Ideal,$2,566
+Round,0.624,G,VS2,AGS - Ideal,$2,567
+Round,0.827,K,VVS2,AGS - Ideal,$2,571
+Round,0.603,H,IF,AGS - Ideal,$2,573
+Round,0.548,E,VVS2,AGS - Ideal,$2,577
+Round,0.604,G,VS1,AGS - Ideal,$2,578
+Round,0.578,E,VS1,AGS - Ideal,$2,595
+Round,0.573,E,VS1,AGS - Ideal,$2,595
+Round,0.554,G,IF,AGS - Ideal,$2,598
+Round,0.513,E,VS1,AGS - Ideal,$2,603
+Round,0.561,F,VVS2,AGS - Ideal,$2,610
+Round,0.582,G,VVS1,AGS - Ideal,$2,610
+Round,0.602,G,VVS2,AGS - Ideal,$2,614
+Round,0.600,G,VVS2,AGS - Ideal,$2,615
+Round,0.526,D,VS1,AGS - Ideal,$2,622
+Round,0.502,D,VVS2,AGS - Ideal,$2,633
+Round,0.583,E,VS1,AGS - Ideal,$2,641
+Round,0.625,F,VS2,AGS - Ideal,$2,653
+Round,0.593,F,VS1,AGS - Ideal,$2,655
+Round,0.653,G,VS2,AGS - Ideal,$2,669
+Round,0.548,E,VVS2,AGS - Ideal,$2,674
+Round,0.526,D,VS1,AGS - Ideal,$2,680
+Round,0.721,J,VVS1,AGS - Ideal,$2,685
+Round,0.592,E,VS1,AGS - Ideal,$2,686
+Round,0.595,D,VS2,AGS - Ideal,$2,686
+Round,0.577,E,VS1,Advance -Ideal,$2,694
+Round,0.584,F,VVS2,AGS - Ideal,$2,704
+Round,0.815,K,VVS1,AGS - Ideal,$2,721
+Round,0.617,G,VS1,AGS - Ideal,$2,725
+Round,0.528,E,VVS1,AGS - Ideal,$2,743
+Round,0.637,G,VVS2,AGS - Ideal,$2,745
+Round,0.571,F,VVS2,AGS - Ideal,$2,757
+Round,0.608,E,VS2,AGS - Ideal,$2,761
+Round,0.567,E,VVS2,AGS - Ideal,$2,793
+Round,0.544,D,VVS2,AGS - Ideal,$2,800
+Round,0.540,D,VVS2,AGS - Ideal,$2,800
+Round,0.634,G,VVS1,AGS - Ideal,$2,805
+Round,0.627,G,VS1,AGS - Ideal,$2,830
+Round,0.575,E,VVS2,AGS - Ideal,$2,843
+Round,0.624,F,VS1,AGS - Ideal,$2,853
+Round,0.715,H,SI1,AGS - Ideal,$2,885
+Round,0.576,D,VS1,AGS - Ideal,$2,885
+Round,0.581,E,VVS2,AGS - Ideal,$2,892
+Round,0.632,G,VS1,AGS - Ideal,$2,908
+Round,0.713,I,VS1,AGS - Ideal,$2,917
+Round,0.721,I,VS2,AGS - Ideal,$2,919
+Round,0.623,E,VS1,AGS - Ideal,$2,933
+Round,0.580,D,VS1,AGS - Ideal,$2,936
+Round,0.595,E,VVS2,AGS - Ideal,$2,942
+Round,0.613,D,VS2,AGS - Ideal,$2,948
+Round,0.833,J,VS2,AGS - Ideal,$2,949
+Round,0.622,F,VS1,AGS - Ideal,$2,961
+Round,0.705,I,VVS1,AGS - Ideal,$2,977
+Round,0.606,E,VS1,AGS - Ideal,$2,982
+Round,0.590,D,VS1,AGS - Ideal,$2,986
+Round,0.592,D,VS1,AGS - Ideal,$2,987
+Round,0.608,F,VVS2,AGS - Ideal,$2,991
+Round,0.581,D,VVS2,AGS - Ideal,$2,993
+Round,0.722,I,VS1,AGS - Ideal,$2,998
+Emerald,0.703,H,VVS1,AGS - Ideal,$3,024
+Round,0.565,D,VVS2,AGS - Ideal,$3,035
+Round,0.596,E,VVS2,AGS - Ideal,$3,052
+Round,0.616,D,VS2,AGS - Ideal,$3,078
+Round,0.742,I,VS1,AGS - Ideal,$3,080
+Round,0.624,E,VS2,AGS - Ideal,$3,081
+Round,0.573,D,VVS2,AGS - Ideal,$3,106
+Round,0.628,D,VS2,AGS - Ideal,$3,128
+Round,0.616,E,VVS2,AGS - Ideal,$3,135
+Round,0.587,D,VVS2,AGS - Ideal,$3,144
+Round,0.585,D,VVS2,AGS - Ideal,$3,144
+Round,0.602,D,VS1,AGS - Ideal,$3,167
+Round,0.715,H,VS2,AGS - Ideal,$3,175
+Round,0.645,F,VVS2,AGS - Ideal,$3,190
+Round,0.605,D,VS1,AGS - Ideal,$3,223
+Round,0.607,D,VS1,AGS - Ideal,$3,223
+Round,0.623,F,VVS1,AGS - Ideal,$3,235
+Round,0.832,J,VS2,AGS - Ideal,$3,255
+Round,0.580,D,VVS2,AGS - Ideal,$3,262
+Round,0.654,D,VS2,AGS - Ideal,$3,279
+Round,0.616,E,VVS1,AGS - Ideal,$3,327
+Round,0.707,F,SI1,Advance -Ideal,$3,339
+Round,0.757,G,SI1,AGS - Ideal,$3,382
+Round,0.617,D,VS1,Advance -Ideal,$3,389
+Round,0.717,H,VS2,AGS - Ideal,$3,422
+Round,0.753,H,VS2,AGS - Ideal,$3,436
+Round,0.757,F,SI1,AGS - Ideal,$3,480
+Round,0.808,I,VS1,AGS - Ideal,$3,484
+Round,0.703,D,SI1,AGS - Ideal,$3,487
+Round,0.861,J,VS1,AGS - Ideal,$3,561
+Emerald,0.700,D,VS1,AGS - Ideal,$3,571
+Round,0.824,H,SI1,AGS - Ideal,$3,571
+Round,0.827,H,SI1,AGS - Ideal,$3,571
+Round,0.724,D,SI1,AGS - Ideal,$3,587
+Round,0.711,G,VS2,AGS - Ideal,$3,606
+Round,0.657,D,VVS2,AGS - Ideal,$3,617
+Round,0.788,F,SI1,AGS - Ideal,$3,620
+Round,0.703,H,VVS1,AGS - Ideal,$3,628
+Round,0.704,H,VVS1,AGS - Ideal,$3,629
+Round,0.737,D,SI1,AGS - Ideal,$3,651
+Round,0.630,D,VVS2,AGS - Ideal,$3,652
+Round,0.720,G,VS2,AGS - Ideal,$3,656
+Round,0.715,G,VS2,AGS - Ideal,$3,660
+Round,0.700,G,VS1,AGS - Ideal,$3,692
+Round,0.701,G,VS2,AGS - Ideal,$3,695
+Round,0.706,G,VS2,AGS - Ideal,$3,695
+Round,0.717,D,SI1,Advance -Ideal,$3,700
+Round,0.731,G,VS2,AGS - Ideal,$3,707
+Round,0.744,H,VS1,AGS - Ideal,$3,745
+Round,0.711,G,VS1,AGS - Ideal,$3,748
+Round,0.711,G,VS2,AGS - Ideal,$3,748
+Round,0.720,G,VS1,AGS - Ideal,$3,754
+Round,0.802,G,SI1,AGS - Ideal,$3,759
+Round,0.731,G,VS2,AGS - Ideal,$3,762
+Round,0.767,E,SI1,AGS - Ideal,$3,776
+Round,0.702,G,VS1,AGS - Ideal,$3,787
+Round,0.816,G,SI1,AGS - Ideal,$3,807
+Round,0.706,G,VS1,AGS - Ideal,$3,825
+Round,0.815,I,VS1,AGS - Ideal,$3,828
+Round,0.707,H,IF,AGS - Ideal,$3,834
+Round,0.702,G,VS1,AGS - Ideal,$3,845
+Round,0.705,G,VVS1,AGS - Ideal,$3,849
+Round,0.721,G,VS1,AGS - Ideal,$3,895
+Round,0.771,G,VS2,AGS - Ideal,$3,896
+Round,0.832,I,VVS2,AGS - Ideal,$3,933
+Round,0.737,G,VS1,AGS - Ideal,$3,949
+Round,0.837,G,SI1,AGS - Ideal,$3,974
+Round,0.727,F,VS2,AGS - Ideal,$3,975
+Round,0.840,I,VVS2,AGS - Ideal,$3,980
+Round,0.707,F,VS1,AGS - Ideal,$3,995
+Round,0.701,E,VS2,AGS - Ideal,$4,019
+Round,0.712,D,SI1,AGS - Ideal,$4,039
+Round,0.790,H,VVS1,AGS - Ideal,$4,045
+Round,0.716,D,VS2,AGS - Ideal,$4,051
+Round,0.801,H,VS1,AGS - Ideal,$4,070
+Round,0.767,G,VS1,AGS - Ideal,$4,111
+Round,0.703,G,VVS2,AGS - Ideal,$4,139
+Round,0.651,D,VVS1,AGS - Ideal,$4,144
+Round,0.703,F,VS1,AGS - Ideal,$4,157
+Round,0.718,E,VS1,AGS - Ideal,$4,199
+Round,0.828,H,VVS2,AGS - Ideal,$4,223
+Round,0.771,G,VVS2,AGS - Ideal,$4,227
+Round,0.745,G,VVS1,AGS - Ideal,$4,235
+Round,0.745,E,VS2,AGS - Ideal,$4,248
+Round,0.708,F,VS1,AGS - Ideal,$4,250
+Round,0.794,G,VS1,AGS - Ideal,$4,257
+Round,0.758,E,VS2,AGS - Ideal,$4,305
+Round,0.718,E,VS2,AGS - Ideal,$4,331
+Round,0.728,F,VVS2,AGS - Ideal,$4,345
+Round,0.818,H,VVS1,AGS - Ideal,$4,370
+Round,0.831,G,VS2,AGS - Ideal,$4,376
+Round,0.790,G,VS1,AGS - Ideal,$4,380
+Round,0.862,H,VS2,AGS - Ideal,$4,389
+Cushion,1.010,J,VS2,AGS - Ideal,$4,412
+Round,0.775,E,VS2,AGS - Ideal,$4,420
+Round,0.765,F,VS1,AGS - Ideal,$4,447
+Round,0.745,F,VS1,AGS - Ideal,$4,448
+Round,0.790,G,VVS2,AGS - Ideal,$4,448
+Round,0.832,H,VVS1,AGS - Ideal,$4,461
+Round,0.728,D,VS1,AGS - Ideal,$4,482
+Round,0.743,D,VS2,AGS - Ideal,$4,493
+Round,0.730,D,VS1,AGS - Ideal,$4,545
+Round,0.717,E,VVS2,Advance -Ideal,$4,545
+Cushion,1.011,J,VS2,AGS - Ideal,$4,567
+Round,0.720,D,VS1,AGS - Ideal,$4,650
+Round,0.848,H,VS1,AGS - Ideal,$4,651
+Round,0.748,E,VVS2,AGS - Ideal,$4,683
+Round,0.841,H,VVS2,AGS - Ideal,$4,695
+Round,0.716,D,VVS2,AGS - Ideal,$4,696
+Round,0.801,G,VS2,AGS - Ideal,$4,723
+Round,0.721,D,VS1,AGS - Ideal,$4,769
+Round,0.734,E,VVS2,AGS - Ideal,$4,793
+Round,0.920,J,VVS2,AGS - Ideal,$4,850
+Round,0.842,G,VVS2,AGS - Ideal,$4,887
+Cushion,1.024,I,VS2,AGS - Ideal,$4,967
+Round,0.761,D,VS1,AGS - Ideal,$5,034
+Round,0.818,D,VS2,AGS - Ideal,$5,105
+Round,0.934,H,SI1,AGS - Ideal,$5,126
+Round,0.862,F,VS2,AGS - Ideal,$5,133
+Round,0.832,E,VS2,AGS - Ideal,$5,152
+Round,0.847,G,VVS1,AGS - Ideal,$5,191
+Round,0.802,E,VS1,AGS - Ideal,$5,226
+Round,1.091,L,VS1,AGS - Ideal,$5,252
+Round,0.916,G,SI1,AGS - Ideal,$5,305
+Round,0.848,F,VS1,AGS - Ideal,$5,314
+Round,0.862,E,VS2,AGS - Ideal,$5,338
+Cushion,1.057,H,SI2,AGS - Ideal,$5,410
+Cushion,1.005,I,VVS2,AGS - Ideal,$5,505
+Cushion,1.017,I,VS1,AGS - Ideal,$5,543
+Round,1.037,J,SI1,Advance -Ideal,$5,571
+Round,0.835,D,VS1,AGS - Ideal,$5,708
+Round,0.842,E,VS1,AGS - Ideal,$5,715
+Round,0.952,G,SI1,AGS - Ideal,$5,746
+Round,0.843,D,VS1,AGS - Ideal,$5,755
+Round,1.160,K,VS1,Advance -Ideal,$5,800
+Emerald,1.016,G,SI1,AGS - Ideal,$5,825
+Round,0.825,D,VS1,AGS - Ideal,$5,873
+Cushion,1.015,G,SI1,AGS - Ideal,$5,965
+Cushion,1.072,I,VS1,AGS - Ideal,$6,020
+Emerald,0.960,G,IF,AGS - Ideal,$6,117
+Round,0.844,D,VVS2,AGS - Ideal,$6,133
+Cushion,1.073,H,VS2,AGS - Ideal,$6,283
+Cushion,1.024,F,SI1,AGS - Ideal,$6,341
+Round,1.018,J,VS1,AGS - Ideal,$6,450
+Round,0.913,F,VS2,AGS - Ideal,$6,463
+Round,1.077,J,VVS2,Advance -Ideal,$6,464
+Round,1.283,K,VS1,AGS - Ideal,$6,481
+Round,1.027,J,VS1,AGS - Ideal,$6,563
+Emerald,1.060,H,IF,AGS - Ideal,$6,565
+Round,1.027,J,VVS2,AGS - Ideal,$6,609
+Emerald,1.067,H,VVS1,AGS - Ideal,$6,612
+Round,1.038,J,VVS2,AGS - Ideal,$6,674
+Cushion,1.037,F,SI1,AGS - Ideal,$6,690
+Round,1.240,K,VVS1,Advance -Ideal,$6,729
+Round,1.235,K,VVS2,AGS - Ideal,$6,744
+Round,1.077,I,VS2,Advance -Ideal,$6,826
+Emerald,1.065,G,VS2,AGS - Ideal,$6,830
+Cushion,1.157,H,VS1,AGS - Ideal,$6,863
+Round,1.104,J,VVS2,AGS - Ideal,$6,935
+Round,1.111,J,VS1,AGS - Ideal,$6,998
+Round,1.123,J,VS1,AGS - Ideal,$7,060
+Round,1.124,J,VS1,AGS - Ideal,$7,060
+Cushion,1.012,F,VS2,AGS - Ideal,$7,116
+Cushion,1.002,G,VS2,AGS - Ideal,$7,168
+Emerald,1.225,H,SI1,AGS - Ideal,$7,175
+Round,1.148,J,VS1,AGS - Ideal,$7,186
+Round,1.112,J,VVS2,AGS - Ideal,$7,192
+Cushion,1.043,G,VVS2,AGS - Ideal,$7,235
+Round,1.140,J,VVS2,AGS - Ideal,$7,250
+Round,1.381,K,VS2,AGS - Ideal,$7,266
+Round,1.014,I,VS2,AGS - Ideal,$7,316
+Round,1.014,I,VS2,AGS - Ideal,$7,316
+Round,1.040,G,SI2,AGS - Ideal,$7,328
+Round,1.051,I,VS2,AGS - Ideal,$7,373
+Round,1.035,I,VS2,AGS - Ideal,$7,413
+Round,1.018,I,VVS2,Advance -Ideal,$7,422
+Round,1.188,J,VS1,AGS - Ideal,$7,439
+Round,1.034,H,SI1,AGS - Ideal,$7,466
+Round,1.017,I,VS2,AGS - Ideal,$7,469
+Round,1.052,I,VS1,AGS - Ideal,$7,502
+Round,1.147,J,VS1,AGS - Ideal,$7,526
+Round,1.066,I,VS2,AGS - Ideal,$7,538
+Cushion,1.115,G,VS2,AGS - Ideal,$7,570
+Round,1.067,I,VVS2,Advance -Ideal,$7,570
+Cushion,1.011,F,VS2,AGS - Ideal,$7,692
+Round,1.065,I,VVS2,AGS - Ideal,$7,698
+Cushion,1.078,G,VS1,AGS - Ideal,$7,716
+Round,1.063,I,VS2,AGS - Ideal,$7,745
+Round,1.048,H,VS2,Advance -Ideal,$7,748
+Round,1.093,H,SI1,AGS - Ideal,$7,805
+Cushion,1.035,G,VS1,AGS - Ideal,$7,805
+Round,1.208,J,VS1,AGS - Ideal,$7,820
+Cushion,1.082,E,VS2,AGS - Ideal,$7,833
+Cushion,1.060,G,VS1,AGS - Ideal,$7,850
+Round,1.028,I,VVS2,AGS - Ideal,$7,888
+Round,1.136,I,SI1,AGS - Ideal,$7,939
+Round,1.023,D,SI2,Advance -Ideal,$7,950
+Round,1.027,H,VVS2,Advance -Ideal,$7,982
+Round,1.038,H,VS2,Advance -Ideal,$7,989
+Round,1.002,H,VS1,Advance -Ideal,$8,010
+Round,1.231,J,VS1,AGS - Ideal,$8,046
+Cushion,1.084,G,VVS1,AGS - Ideal,$8,049
+Round,1.145,I,VS1,AGS - Ideal,$8,084
+Round,1.248,J,VS1,AGS - Ideal,$8,112
+Round,1.120,I,VS1,AGS - Ideal,$8,118
+Cushion,1.054,D,VS2,AGS - Ideal,$8,159
+Cushion,1.152,G,VS2,AGS - Ideal,$8,170
+Emerald,1.053,F,VVS2,AGS - Ideal,$8,186
+Round,1.227,J,VVS2,AGS - Ideal,$8,190
+Round,1.070,H,SI1,AGS - Ideal,$8,226
+Round,1.117,I,VS1,AGS - Ideal,$8,232
+Round,1.118,I,VS1,AGS - Ideal,$8,232
+Round,1.126,H,SI1,AGS - Ideal,$8,244
+Round,1.147,I,VVS1,Advance -Ideal,$8,260
+Round,1.106,I,VVS2,AGS - Ideal,$8,280
+Round,1.078,H,VS2,Advance -Ideal,$8,296
+Round,1.016,H,VS1,AGS - Ideal,$8,298
+Round,1.099,I,VVS1,Advance -Ideal,$8,332
+Round,1.157,I,VVS2,Advance -Ideal,$8,339
+Round,1.108,I,VS1,Advance -Ideal,$8,355
+Round,1.027,F,VS2,Advance -Ideal,$8,378
+Round,1.050,G,SI1,AGS - Ideal,$8,384
+Round,1.008,H,VS2,AGS - Ideal,$8,390
+Round,1.011,H,VS1,AGS - Ideal,$8,392
+Round,1.020,G,SI1,AGS - Ideal,$8,458
+Round,1.127,H,VS2,Advance -Ideal,$8,463
+Emerald,1.144,G,IF,AGS - Ideal,$8,467
+Round,1.024,H,VVS2,AGS - Ideal,$8,481
+Round,1.120,I,VS1,AGS - Ideal,$8,522
+Round,1.188,I,VS2,AGS - Ideal,$8,597
+Round,1.130,I,VS1,AGS - Ideal,$8,598
+Round,1.008,G,VS2,Advance -Ideal,$8,677
+Round,1.010,F,SI1,AGS - Ideal,$8,678
+Round,1.137,I,VVS2,Advance -Ideal,$8,686
+Round,1.137,I,VVS2,Advance -Ideal,$8,687
+Round,1.090,H,SI1,AGS - Ideal,$8,753
+Round,1.161,I,VS1,AGS - Ideal,$8,827
+Round,1.020,H,VS1,AGS - Ideal,$8,835
+Round,1.230,I,VS2,AGS - Ideal,$8,865
+Round,1.245,I,VS2,AGS - Ideal,$8,937
+Round,1.083,G,SI1,AGS - Ideal,$8,955
+Round,1.016,G,SI1,AGS - Ideal,$8,963
+Round,1.111,H,VS2,AGS - Ideal,$8,992
+Round,1.223,I,VS2,AGS - Ideal,$8,995
+Cushion,1.141,E,VS2,AGS - Ideal,$8,997
+Round,1.050,G,VS2,AGS - Ideal,$9,059
+Round,1.070,H,VS2,AGS - Ideal,$9,112
+Round,1.194,I,VVS2,AGS - Ideal,$9,203
+Round,1.205,I,VVS2,AGS - Ideal,$9,253
+Round,1.201,I,VVS2,AGS - Ideal,$9,253
+Round,1.216,I,VS1,AGS - Ideal,$9,262
+Round,1.215,I,VS1,AGS - Ideal,$9,262
+Round,1.094,H,VS2,AGS - Ideal,$9,283
+Round,1.092,E,SI1,AGS - Ideal,$9,295
+Round,1.051,H,VS1,AGS - Ideal,$9,299
+Round,1.137,G,SI1,Advance -Ideal,$9,338
+Round,1.022,G,VS2,AGS - Ideal,$9,371
+Round,1.261,I,VS2,AGS - Ideal,$9,401
+Round,1.054,G,VS2,AGS - Ideal,$9,404
+Round,1.230,I,VS1,AGS - Ideal,$9,456
+Round,1.337,J,VS1,AGS - Ideal,$9,486
+Round,1.136,H,VS1,AGS - Ideal,$9,498
+Round,1.206,I,VVS2,AGS - Ideal,$9,518
+Round,1.248,I,VS1,Advance -Ideal,$9,525
+Round,1.058,G,VS2,AGS - Ideal,$9,647
+Round,1.062,G,VS2,AGS - Ideal,$9,647
+Round,1.055,G,VS2,AGS - Ideal,$9,647
+Round,1.030,G,VS2,AGS - Ideal,$9,675
+Round,1.031,G,VS2,AGS - Ideal,$9,675
+Round,1.420,J,VS2,AGS - Ideal,$9,675
+Round,1.077,H,VVS2,Advance -Ideal,$9,682
+Round,1.096,G,VS2,AGS - Ideal,$9,761
+Round,1.046,G,VS2,AGS - Ideal,$9,768
+Round,1.298,I,VS2,AGS - Ideal,$9,770
+Round,1.088,H,VVS2,Advance -Ideal,$9,771
+Cushion,1.212,F,VS1,AGS - Ideal,$9,825
+Round,1.092,G,VS2,AGS - Ideal,$9,844
+Round,1.016,F,VS2,AGS - Ideal,$9,889
+Round,1.220,H,VS2,AGS - Ideal,$9,889
+Round,1.107,H,VVS2,Advance -Ideal,$9,950
+Round,1.036,E,SI1,AGS - Ideal,$9,960
+Round,1.020,F,VS2,AGS - Ideal,$9,978
+Round,1.026,F,VS2,AGS - Ideal,$9,978
+Round,1.097,G,VS2,AGS - Ideal,$10,015
+Round,1.212,G,SI1,AGS - Ideal,$10,017
+Round,1.125,H,VS1,AGS - Ideal,$10,026
+Round,1.078,G,VS2,AGS - Ideal,$10,050
+Round,1.325,I,VS2,AGS - Ideal,$10,080
+Round,1.138,H,VS1,Advance -Ideal,$10,095
+Round,1.137,H,VS1,Advance -Ideal,$10,095
+Round,1.302,I,VS1,AGS - Ideal,$10,111
+Round,1.053,G,VS1,AGS - Ideal,$10,153
+Round,1.045,F,VS2,AGS - Ideal,$10,183
+Round,1.148,H,VS1,Advance -Ideal,$10,184
+Round,1.147,H,VS1,Advance -Ideal,$10,184
+Round,1.300,I,VS2,AGS - Ideal,$10,195
+Round,1.108,G,VS2,Advance -Ideal,$10,198
+Round,1.200,H,VS1,Advance -Ideal,$10,214
+Round,1.138,H,VVS1,Advance -Ideal,$10,218
+Round,1.138,H,VVS2,Advance -Ideal,$10,218
+Round,1.147,H,IF,Advance -Ideal,$10,309
+Round,1.332,I,VS1,AGS - Ideal,$10,344
+Round,1.137,E,SI1,Advance -Ideal,$10,348
+Round,1.130,G,VS2,AGS - Ideal,$10,353
+Round,1.167,H,VS1,Advance -Ideal,$10,361
+Round,1.036,F,VS2,AGS - Ideal,$10,387
+Round,1.158,H,VVS2,Advance -Ideal,$10,399
+Round,1.080,G,VS2,AGS - Ideal,$10,418
+Round,1.352,H,SI1,AGS - Ideal,$10,439
+Round,1.053,G,VS1,AGS - Ideal,$10,456
+Round,1.138,G,VS2,Advance -Ideal,$10,474
+Round,1.167,H,VVS2,Advance -Ideal,$10,488
+Round,1.054,G,VS1,Advance -Ideal,$10,521
+Round,1.023,G,VVS2,AGS - Ideal,$10,539
+Round,1.083,F,VS2,AGS - Ideal,$10,574
+Round,1.200,F,SI1,Advance -Ideal,$10,622
+Round,1.173,G,VS2,AGS - Ideal,$10,750
+Round,1.274,H,SI1,AGS - Ideal,$10,785
+Round,1.126,G,VS2,AGS - Ideal,$10,805
+Round,1.207,H,VS1,Advance -Ideal,$10,847
+Round,1.088,G,VS1,Advance -Ideal,$10,860
+Round,1.043,G,VS1,AGS - Ideal,$10,865
+Round,1.098,G,VS1,Advance -Ideal,$10,959
+Round,1.076,F,VS1,AGS - Ideal,$10,976
+Round,1.208,H,VVS1,Advance -Ideal,$10,977
+Round,1.003,E,VS2,AGS - Ideal,$10,996
+Round,1.003,E,VS2,AGS - Ideal,$10,996
+Round,1.131,F,VS2,AGS - Ideal,$11,008
+Round,1.107,G,VS1,Advance -Ideal,$11,058
+Round,1.097,G,VVS2,Advance -Ideal,$11,093
+Round,1.118,G,VS1,Advance -Ideal,$11,158
+Round,1.118,G,VS1,Advance -Ideal,$11,158
+Round,1.117,G,VS1,Advance -Ideal,$11,158
+Round,1.124,G,VS1,AGS - Ideal,$11,159
+Round,1.278,H,VS2,AGS - Ideal,$11,163
+Round,1.107,G,VVS1,Advance -Ideal,$11,194
+Round,1.028,F,VS1,AGS - Ideal,$11,220
+Round,1.403,I,VS2,AGS - Ideal,$11,227
+Round,1.127,G,VS1,Advance -Ideal,$11,258
+Cushion,1.497,H,VS1,AGS - Ideal,$11,295
+Round,1.050,F,VS1,AGS - Ideal,$11,300
+Round,1.328,H,VS1,Advance -Ideal,$11,320
+Round,1.034,F,VS1,AGS - Ideal,$11,340
+Round,1.137,G,VS1,Advance -Ideal,$11,357
+Round,1.138,G,VS1,Advance -Ideal,$11,357
+Round,1.403,I,VS2,AGS - Ideal,$11,375
+Round,1.137,F,VS2,AGS - Ideal,$11,395
+Round,1.128,G,VVS2,Advance -Ideal,$11,396
+Round,1.151,G,VS1,AGS - Ideal,$11,452
+Round,1.137,G,VVS2,Advance -Ideal,$11,496
+Round,1.160,G,VS1,AGS - Ideal,$11,557
+Round,1.158,G,VS1,Advance -Ideal,$11,557
+Round,1.028,F,VVS2,AGS - Ideal,$11,597
+Round,1.068,F,VS1,AGS - Ideal,$11,638
+Round,1.167,G,VS1,Advance -Ideal,$11,656
+Round,1.258,H,VVS1,Advance -Ideal,$11,680
+Round,1.110,E,VS2,AGS - Ideal,$11,730
+Round,1.342,H,VS2,AGS - Ideal,$11,750
+Round,1.347,H,VS2,AGS - Ideal,$11,750
+Round,1.076,F,VS1,AGS - Ideal,$11,759
+Cushion,1.518,H,SI1,AGS - Ideal,$11,788
+Round,1.186,G,VS1,AGS - Ideal,$11,845
+Round,1.181,G,VS1,AGS - Ideal,$11,845
+Round,1.082,F,VS1,AGS - Ideal,$11,859
+Round,1.097,F,VS1,AGS - Ideal,$11,865
+Round,1.198,G,VS1,AGS - Ideal,$11,945
+Round,1.104,F,VS1,AGS - Ideal,$11,967
+Round,1.027,E,VVS2,Advance -Ideal,$11,975
+Round,1.370,H,VS2,AGS - Ideal,$12,048
+Round,1.301,H,VS1,AGS - Ideal,$12,075
+Round,1.071,F,VS1,AGS - Ideal,$12,082
+Cushion,1.526,H,VVS2,AGS - Ideal,$12,105
+Round,1.568,I,SI1,Advance -Ideal,$12,215
+Round,1.118,D,VS2,Advance -Ideal,$12,226
+Round,1.041,D,VS1,AGS - Ideal,$12,307
+Round,1.665,I,SI1,AGS - Ideal,$12,355
+Round,1.038,F,VVS1,Advance -Ideal,$12,400
+Round,1.121,F,VS1,AGS - Ideal,$12,454
+Round,1.024,E,VS1,AGS - Ideal,$12,500
+Round,1.030,E,VS1,AGS - Ideal,$12,624
+Round,1.110,D,VS2,AGS - Ideal,$12,664
+Cushion,1.535,H,VVS1,AGS - Ideal,$12,827
+Round,1.057,D,VS2,AGS - Ideal,$12,833
+Round,1.390,H,VS1,AGS - Ideal,$12,867
+Cushion,1.618,G,SI1,AGS - Ideal,$13,010
+Round,1.098,D,VS2,AGS - Ideal,$13,031
+Cushion,1.527,H,VS1,AGS - Ideal,$13,090
+Round,1.024,D,VS2,AGS - Ideal,$13,418
+Round,1.423,H,VS1,AGS - Ideal,$13,455
+Round,1.443,H,VS1,AGS - Ideal,$13,640
+Round,1.158,D,VS2,AGS - Ideal,$13,736
+Round,1.138,E,VVS2,Advance -Ideal,$13,805
+Cushion,1.510,G,VS2,AGS - Ideal,$13,868
+Round,1.028,D,VS1,Advance -Ideal,$13,910
+Round,1.528,I,VS1,AGS - Ideal,$13,948
+Cushion,1.521,G,VS2,AGS - Ideal,$13,989
+Round,1.032,D,VS1,AGS - Ideal,$14,014
+Cushion,1.648,H,VS1,AGS - Ideal,$14,213
+Round,1.578,I,VVS2,Advance -Ideal,$14,342
+Round,1.512,H,SI1,AGS - Ideal,$14,543
+Cushion,1.590,G,SI1,AGS - Ideal,$14,602
+Round,1.312,E,VS2,AGS - Ideal,$14,945
+Round,1.140,D,VS1,AGS - Ideal,$15,383
+Round,1.142,D,VS1,AGS - Ideal,$15,383
+Round,1.137,D,VS1,Advance -Ideal,$15,397
+Round,1.016,D,VVS1,AGS - Ideal,$15,456
+Cushion,2.082,J,VS1,AGS - Ideal,$15,678
+Cushion,1.711,H,VS2,AGS - Ideal,$15,732
+Round,1.166,D,VS1,AGS - Ideal,$15,836
+Round,1.502,H,VS1,Advance -Ideal,$16,128
+Princess,1.706,G,VS1,AGS - Ideal,$16,225
+Round,1.538,H,VVS2,Advance -Ideal,$16,244
+Round,1.531,H,VVS2,AGS - Ideal,$16,350
+Round,1.581,H,VS1,AGS - Ideal,$16,350
+Round,2.080,K,VVS2,Advance -Ideal,$16,598
+Round,1.678,H,VS2,Advance -Ideal,$16,802
+Cushion,2.165,J,VVS1,AGS - Ideal,$16,956
+Cushion,2.020,I,VVS2,AGS - Ideal,$17,105
+Round,1.740,H,SI1,AGS - Ideal,$17,699
+Round,1.524,G,VS2,AGS - Ideal,$17,713
+Round,1.505,G,VS2,AGS - Ideal,$17,715
+Round,1.508,G,VS2,Advance -Ideal,$17,835
+Round,1.558,G,VS2,Advance -Ideal,$18,425
+Round,2.091,J,VS2,AGS - Ideal,$18,710
+Round,2.130,J,VS2,AGS - Ideal,$19,065
+Round,1.304,D,VS1,AGS - Ideal,$19,102
+Round,1.547,G,VS1,Advance -Ideal,$19,322
+Round,1.732,G,SI1,AGS - Ideal,$19,525
+Round,1.568,G,VS1,Advance -Ideal,$19,572
+Round,1.435,E,VVS2,AGS - Ideal,$19,657
+Round,2.116,K,VVS1,AGS - Ideal,$19,805
+Round,1.717,H,IF,Advance -Ideal,$19,902
+Round,1.356,D,VS1,AGS - Ideal,$20,289
+Round,2.061,J,VS1,AGS - Ideal,$20,523
+Round,2.141,J,VS1,AGS - Ideal,$20,595
+Round,2.117,J,VVS2,Advance -Ideal,$20,625
+Round,1.935,H,SI1,AGS - Ideal,$21,278
+Round,1.504,E,VS2,AGS - Ideal,$21,715
+Round,1.500,D,VS2,Advance -Ideal,$22,045
+Round,2.023,I,VS2,AGS - Ideal,$22,058
+Round,2.175,H,SI2,AGS - Ideal,$22,244
+Round,1.570,G,VVS1,AGS - Ideal,$22,689
+Round,1.528,E,VS2,AGS - Ideal,$22,850
+Round,1.020,D,IF,AGS - Ideal,$22,995
+Round,2.137,I,VS2,Advance -Ideal,$23,011
+Round,1.080,D,IF,AGS - Ideal,$23,254
+Round,1.085,D,IF,AGS - Ideal,$23,254
+Round,1.892,H,VS1,AGS - Ideal,$23,490
+Round,1.660,E,VS2,AGS - Ideal,$24,008
+Round,2.007,H,SI1,Advance -Ideal,$24,178
+Round,1.820,G,VS2,AGS - Ideal,$24,412
+Round,1.558,D,VS1,Advance -Ideal,$24,897
+Round,1.505,F,VVS1,AGS - Ideal,$25,821
+Round,2.070,I,VVS2,AGS - Ideal,$25,910
+Round,2.080,I,VVS2,AGS - Ideal,$26,282
+Round,1.823,F,VS2,AGS - Ideal,$26,673
+Round,1.532,D,VS1,AGS - Ideal,$27,075
+Round,1.668,E,VS1,AGS - Ideal,$27,900
+Round,1.608,F,VVS1,Advance -Ideal,$28,075
+Round,2.067,H,VVS2,AGS - Ideal,$29,655
+Round,2.107,H,VS1,AGS - Ideal,$30,958
+Round,1.798,F,VVS1,AGS - Ideal,$31,614
+Cushion,2.124,F,VS2,AGS - Ideal,$31,639
+Round,2.142,H,VS1,AGS - Ideal,$31,953
+Round,2.061,G,VS2,AGS - Ideal,$33,187
+Emerald,2.010,E,VS1,AGS - Ideal,$33,430
+Round,2.660,I,VS1,AGS - Ideal,$34,928
+Round,1.834,D,VS1,AGS - Ideal,$35,558
+Round,1.866,D,VS1,AGS - Ideal,$36,141
+Round,2.254,G,VS2,Advance -Ideal,$37,504
+Round,1.881,D,VVS2,AGS - Ideal,$39,715
+Round,2.048,F,VS1,AGS - Ideal,$41,935
+Round,2.352,G,VVS2,AGS - Ideal,$45,225
+Round,2.044,D,VS1,Advance -Ideal,$47,020
+Round,2.066,E,VVS2,AGS - Ideal,$52,145
+Round,2.061,E,VVS2,Advance -Ideal,$53,560
+Cushion,3.095,H,VS1,AGS - Ideal,$54,061
+Round,3.197,I,VS1,Advance -Ideal,$56,784
+Round,3.622,I,VS2,AGS - Ideal,$62,310
+Round,2.135,D,VVS1,Advance -Ideal,$73,238
+Round,3.167,H,VVS1,Advance -Ideal,$82,420
+Round,2.641,D,VVS2,AGS - Ideal,$91,809
+Round,2.090,D,IF,AGS - Ideal,$97,846
+Round,5.388,J,VS2,AGS - Ideal,$115,998

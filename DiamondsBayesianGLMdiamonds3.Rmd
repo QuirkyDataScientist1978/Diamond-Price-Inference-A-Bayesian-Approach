@@ -1,0 +1,119 @@
+---
+title: "Bayesian Statistics GLM Model - Diamond Dataset (diamondsfour.txt) - Aaron Gauthier"
+author: "Aaron Gauthier"
+date: "11/29/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r message=FALSE, warning=FALSE}
+library(arm)
+library(dummies)
+library(data.table)
+library(mltools)
+library(caret)
+library(corrplot)
+library(ggplot2)
+library(MCMCpack)
+library(MCMCprecision)
+library(mcmcplots)
+set.seed(42)
+```
+
+# read diamonds file # 5
+
+```{r message=FALSE, warning=FALSE}
+diamonds3 <- read.csv("diamondsthree.txt",header = TRUE)
+diamonds3
+```
+
+# One hot ecoding variables
+
+```{r message=FALSE, warning=FALSE}
+diamonds3 <- as.data.table(diamonds3)
+diamonds3_oh <- one_hot(diamonds3)
+diamonds3_oh
+```
+
+# check to see if any of the values have NA's in them
+
+```{r}
+sum(is.na(diamonds5a_oh))
+```
+# Perfect all of the values are one hot encoded and everything is intact - not missing
+# Plot our dependent variable price - 
+
+```{r}
+plot(diamonds5a$Price)
+```
+
+
+```{r}
+summary(diamonds5a)
+```
+# This will give us the number of observations and variables.
+```{r}
+dim(diamonds5a)
+```
+
+```{r}
+model1.1 <- lm(Price ~ Shape + Carat + Cut + Color + Clarity + Polish + Symmetry, data = diamonds5a_oh)
+summary(model1.1)
+```
+
+```{r}
+model1.2 <- glm(Price ~ Shape + Carat + Cut + Color + Clarity + Polish + Symmetry, data = diamonds5a_oh)
+summary(model1.2)
+```
+
+
+```{r}
+model1.3 <- bayesglm(Price ~ Shape + Carat + Cut + Color + Clarity + Polish + Symmetry, data = diamonds5a_oh)
+summary(model1.3)
+
+```
+
+```{r}
+simulates <- coef(sim(model1.3))
+head(simulates, 10)
+```
+
+```{r}
+posterior.open <- simulates[, 2]
+head(posterior.open, 10)
+```
+
+```{r}
+hist(posterior.open)
+```
+
+```{r}
+plot(density(posterior.open), main = "", xlab = "Posterior.open", ylab = "Density")
+```
+
+```{r}
+quantile(posterior.open, c(.025, .975))
+```
+
+```{r}
+model1.4 <- MCMCregress(Price ~ Shape + Carat + Cut + Color + Clarity + Polish + Symmetry, data = diamonds5a_oh, burnin = 3000, mcmc = 10000, thin = 1, verbose = 0, seed = 42, beta.start = NA)
+summary(model1.4)
+```
+
+
+
+
+
+
+
+
+
