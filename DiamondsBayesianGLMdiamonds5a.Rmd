@@ -42,7 +42,7 @@ diamonds5a
 ```{r}
 sum(is.na(diamonds5a))
 ```
-# Perfect all of the values are one hot encoded and everything is intact - not missing
+# Perfect all of the values are label encoded and everything is intact - not missing
 # Plot our dependent variable price - 
 
 ```{r}
